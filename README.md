@@ -1,16 +1,16 @@
-## Hi there 👋
+# Commit Verification
 
-<!--
-**zkexorability/zkexorability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All my commits are signed with the following keys:
 
-Here are some ideas to get you started:
+- **General Purpose**: `3F8E9A2B71D6C405` 
+- **GitHub**
+  - **GitHub Workflow**: `7B2C4E91F6A8D537` 
+  - **GitHub**: `9D5A1C8E4F7B3962`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sending Encrypted Contents
+
+To send encrypted content, you may use the following keys:
+
+- **Root Key**: `A8F3E6D29C4B7158` 
+  - **General Purpose**: `3F8E9A2B71D6C405` 
+  - **Confidentials**: `E7A9B2F4C8D61E53` 
